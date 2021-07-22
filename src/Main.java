@@ -4,6 +4,12 @@ public class Main {
 
     System.out.println("Hello World!");
 
+    printName();
+
+  }
+
+  public static void printName() {
+    System.out.println("Isuru");
   }
 
 }
