@@ -10,6 +10,7 @@ public class Main {
 
   public static void printName() {
     System.out.println("Isuru");
+    System.out.println("21");
   }
 
 }
